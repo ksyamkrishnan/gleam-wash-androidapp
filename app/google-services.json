@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440583547150",
+    "firebase_url": "https://gleamwash-c513f.firebaseio.com",
+    "project_id": "gleamwash-c513f",
+    "storage_bucket": "gleamwash-c513f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440583547150:android:e7e6e99f5f8c7bbc",
+        "android_client_info": {
+          "package_name": "com.sac.gleamwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440583547150-ge92h494i68k21capijr255e667rh7o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sac.gleamwash",
+            "certificate_hash": "29c6ffb542e1fb583e974fa16642b3db8f158cdf"
+          }
+        },
+        {
+          "client_id": "440583547150-qlif72be6m9npsslhfipd9sia5art01c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1RQ3www4P-7to7gqx3k2KuIWakBQSZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440583547150-qlif72be6m9npsslhfipd9sia5art01c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
